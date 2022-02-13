@@ -1,4 +1,4 @@
-# SecPass
+![secpass](https://user-images.githubusercontent.com/75953873/153736104-f355a7b5-62cd-4a8e-ad20-5578360160e5.png)
 
 SecPass is a simple script of secure password generator.
 
