@@ -18,6 +18,5 @@ SecPass is a simple script of secure password generator.
 ```
 • git clone https://github.com/R3LI4NT/SecPass
 • cd SecPass
-• pip3 install random
 • python3 secpass.py
 ```
