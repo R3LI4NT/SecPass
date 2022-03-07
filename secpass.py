@@ -19,7 +19,8 @@ if option == '1':
 	all = lower + upper + numbers + symbols
 	password = "".join(random.sample(all,length))
 	print('\nNew password: \033[1;32m{}\033[0m'.format(password))
-	f.write("New password: {}".format(password))
+	f.write("New password: {}".format(password)+'\n')
+	print('')
 	f.close()
 	print("Saved on: {}password.txt{}".format(YELLOW,END))
 
@@ -54,7 +55,7 @@ elif option == '2':
 	all = lowercase + capital_letters + numbers + symbols
 	password = "".join(random.sample(all,length))
 	print('\nNew password: \033[1;32m{}\033[0m'.format(password))
-	f.write("New password: {}".format(password))
+	f.write("New password: {}".format(password)+'\n')
 	f.close()
 	print("Saved on: {}password.txt{}".format(YELLOW,END))
 
