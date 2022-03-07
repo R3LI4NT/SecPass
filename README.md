@@ -9,7 +9,7 @@ SecPass is a simple script of secure password generator.
 
 
 ### Customize:
-![customize](https://user-images.githubusercontent.com/75953873/157100169-367c40be-c56b-4e87-bf3d-950903c6bc06.png)
+![customize](https://user-images.githubusercontent.com/75953873/157101074-757a1dd8-5115-4752-9a58-276cb02ff1ee.png)
 
 
 
